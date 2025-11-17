@@ -46,7 +46,7 @@ const Home = () => {
     <div className="flex justify-center">
       <div className="text-white mt-6 w-[55%]">
         <h3 className="font-bold text-2xl text-green-600 flex justify-center items-center">
-          Current Products
+          Current products
         </h3>
         {/* card */}
         <div>
